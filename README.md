@@ -1,14 +1,12 @@
- <a href="#put_ext_link_here">
-  <img align="right" src="src/ext-icons/ext-logo-48.png">
- </a>
- 
-# Reddit link shortner
-
- A simple chrome extension that converts long reddit post links into short redd.it links which can be shared easily. 
+## <img align="left" src="src/ext-icons/ext-logo-48.png"> Reddit link shortner
 
 ---
 
-![](screenshot.png)
+A simple chrome extension that converts long reddit post links into short redd.it links which can be shared easily.
+
+---
+
+![screenshot](screenshot.png)
 
 ---
 
