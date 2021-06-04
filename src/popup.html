@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Reddit link shortner</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<h3 class="rounded-style">&#9741; Shortened reddit post link</h3>
+		<div class="container">
+			<img
+				class="rounded-style bg-grey"
+				src="ext-icons/reddit.svg"
+				id="site-logo"
+				alt="site logo"
+			/>
+			<input
+				type="text"
+				class="rounded-style bg-grey"
+				id="shortlink-input"
+				title="Shortened link"
+				readonly
+			/>
+			<img
+				class="rounded-style bg-grey"
+				src="ext-icons/copy-icon.svg"
+				id="copy-button"
+				alt="copy button"
+				title="Copy link"
+			/>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>

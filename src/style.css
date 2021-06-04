@@ -1,0 +1,48 @@
+* {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+	background-color: #3b3b3b;
+}
+img {
+	width: 80vw;
+}
+h3 {
+	margin: auto;
+	font-weight: 500;
+	width: fit-content;
+	background-color: #ff4500;
+	color: white;
+}
+.status {
+	font-weight: 500;
+	color: white;
+	background-color: #4aaa4d;
+	text-align: center;
+}
+.bg-grey {
+	background-color: #2b2b2b;
+}
+.container {
+	display: flex;
+	margin: 5px 0;
+}
+.rounded-style {
+	border-radius: 10px;
+	padding: 6px 10px;
+}
+#shortlink-input {
+	margin: 0 5px;
+	outline: none;
+	border: none;
+	font-weight: 600;
+	font-size: 14px;
+	color: #f7f7f7;
+	width: 220px;
+}
+#shortlink-input::selection {
+	background-color: dodgerblue;
+}
+#copy-button {
+	cursor: pointer;
+}
