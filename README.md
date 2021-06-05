@@ -1,4 +1,4 @@
-## <img align="left" src="src/ext-icons/ext-logo-48.png"> Reddit link shortner
+## <img align="left" src="src/ext-icons/ext-logo-48.png"> Reddit link shortener
 
 ---
 
