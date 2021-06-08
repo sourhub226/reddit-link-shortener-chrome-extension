@@ -1,6 +1,5 @@
 const copyBtn = document.querySelector("#copy-button");
 const shortLinkInput = document.querySelector("#shortlink-input");
-const siteLogo = document.querySelector("#site-logo");
 const body = document.querySelector("body");
 const statusDiv = document.createElement("div");
 statusDiv.className = "status rounded-style";
