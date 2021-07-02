@@ -2,12 +2,16 @@
 ![ViewCount](https://views.whatilearened.today/views/github/sourhub226/reddit-link-shortener-chrome-extension.svg)
 
 ## <a href="https://github.com/sourhub226/reddit-link-shortener-chrome-extension/releases"><img align="left" src="src/ext-icons/ext-logo-48.png"></a> Reddit link shortener 
-<a href="https://microsoftedge.microsoft.com/addons/detail/aijliklipcbmdapjccjgbbimknglopjf"><img align="right" src="https://user-images.githubusercontent.com/58329492/121931894-d1c80300-cd61-11eb-9650-f5faba0fbac9.png" alt="Available as Microsoft Edge Add-on"></a>
-
 
 ---
 
 A simple chrome extension that transforms long reddit post links into short redd.it links which can be shared easily.
+
+<p align="right"><b>Available on </b>
+  <a href="https://microsoftedge.microsoft.com/addons/detail/aijliklipcbmdapjccjgbbimknglopjf">
+    <img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/50px-Microsoft_Edge_logo_%282019%29.svg.png" alt="Available as Microsoft Edge Add-on">
+  </a>
+</p>
 
 ---
 
