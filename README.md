@@ -2,7 +2,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/sourhub226/reddit-link-shortener-chrome-extension/badge?s=31289ff6224e1e4b2993d70216cdee0223b79b60)](https://www.codefactor.io/repository/github/sourhub226/reddit-link-shortener-chrome-extension)
 ![ViewCount](https://views.whatilearened.today/views/github/sourhub226/reddit-link-shortener-chrome-extension.svg)
 
-## <a href="https://github.com/sourhub226/reddit-link-shortener-chrome-extension/releases"><img align="left" src="src/ext-icons/ext-logo-48.png"></a> Reddit link shortener 
+## <a href="https://github.com/sourhub226/reddit-link-shortener-chrome-extension/releases"><img align="left" src="src/ext-icons/ext-logo-128.png" width=65></a> Reddit link shortener 
 
 ---
 
