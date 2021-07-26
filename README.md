@@ -10,7 +10,7 @@ A simple chrome extension that transforms long reddit post links into short redd
 
 <p align="right"><b>Available on </b>
   <a href="https://microsoftedge.microsoft.com/addons/detail/aijliklipcbmdapjccjgbbimknglopjf">
-    <img align="right" src="https://github.com/MicrosoftEdge/edgevr/blob/main/assets/img/edge-logo-128x128.png" alt="Available as Microsoft Edge Add-on" width=50>
+    <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png" alt="Available as Microsoft Edge Add-on" width=50>
   </a>
   <a href="https://chrome.google.com/webstore/detail/reddit-link-shortener/enabdfbmpfocnjpedmmnhcblcapknhgi">
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/50px-Google_Chrome_icon_%28September_2014%29.svg.png" alt="Available on Chrome web store" width=50>
