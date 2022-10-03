@@ -1,24 +1,19 @@
 {
-    "manifest_version": 2,
-    "name": "Reddit link shortener",
-    "description": "Transforms long reddit post links into short redd.it links quickly.",
-    "version": "1.1",
-    "author": "Sourabh Sathe",
-    "page_action": {
-        "default_popup": "popup.html"
-    },
-    "background": {
-        "scripts": [
-            "background.js"
-        ]
-    },
-    "permissions": [
-        "declarativeContent",
-        "tabs"
-    ],
-    "icons": {
-        "16": "ext-icons/ext-logo-16.png",
-        "48": "ext-icons/ext-logo-48.png",
-        "128": "ext-icons/ext-logo-128.png"
-    }
+  "manifest_version": 3,
+  "name": "Reddit link shortener",
+  "description": "Transforms long reddit post links into short redd.it links quickly.",
+  "version": "1.2",
+  "author": "Sourabh Sathe",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["declarativeContent", "tabs"],
+  "icons": {
+    "16": "ext-icons/ext-logo-16.png",
+    "48": "ext-icons/ext-logo-48.png",
+    "128": "ext-icons/ext-logo-128.png"
+  }
 }
